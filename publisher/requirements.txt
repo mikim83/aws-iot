@@ -1,0 +1,3 @@
+AWSIoTPythonSDK
+paho-mqtt
+argparse
